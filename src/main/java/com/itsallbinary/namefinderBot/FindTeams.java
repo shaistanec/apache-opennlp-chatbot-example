@@ -1,3 +1,4 @@
+/*
 package com.itsallbinary.namefinderBot;
 
 import com.itsallbinary.OpenNLPChatBot;
@@ -175,3 +176,4 @@ public class FindTeams {
 //        TokenNameFinderModel model = NameFinderME.train("en", null,sampleStream, params, factory);
 //        return model;
 //    }
+*/
